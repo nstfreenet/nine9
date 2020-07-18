@@ -36,7 +36,7 @@ apt-get install boxes
 # color text
 cd
 rm -rf /root/.bashrc
-wget -O /root/.bashrc https://raw.githubusercontent.com/Vpsee00/nine9/master/war/.bashrc
+wget -O /root/.bashrc https://raw.githubusercontent.com/nstfreenet/nine9/master/war/.bashrc
 
 # install lolcat
 sudo apt-get -y install ruby
