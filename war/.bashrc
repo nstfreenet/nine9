@@ -121,12 +121,12 @@ clear
 echo "" | lolcat
 echo "" | lolcat
 echo "" | lolcat
-echo "      --[         SELAMAT DATANG  DI VPSPROJECT             ]--"| boxes -d boy | lolcat
+echo "      --[         SELAMAT DATANG  DI NSTPROJECT             ]--"| boxes -d boy | lolcat
 echo "         ====================================================="| lolcat
-echo "         #           WhatsApp     : 0109475453              #"| lolcat
-echo "         #           Telegram     : @OrangKuatSabahanTerkini#"| lolcat
-echo "         #           GROUP        : -                       #"| lolcat
-echo "         #           Channel      : @NewPremiumService      #"| lolcat
+echo "         #           WhatsApp     : 081325714976            #"| lolcat
+echo "         #           Telegram     : t.me/NSTFREENET         #"| lolcat
+echo "         #           GROUP FB     : •NSTFREENET•            #"| lolcat
+echo "         #         Channel YT     : NSTPROJECT              #"| lolcat
 echo "         #--------------------------------------------------#"| lolcat
 echo "         #      Sila taip [menu] and ENTER untuk options    #"| lolcat
 echo "         #--------------------------------------------------#"| lolcat
